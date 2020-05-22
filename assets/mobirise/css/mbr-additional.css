@@ -3137,7 +3137,7 @@ section.lazy-placeholder:after {
 }
 .cid-rZKQZDHAY9 {
   padding-top: 120px;
-  padding-bottom: 60px;
+  padding-bottom: 120px;
   background-color: #efefef;
 }
 .cid-rZKQZDHAY9 .counter-container {
@@ -3170,4 +3170,7 @@ section.lazy-placeholder:after {
   width: 40px;
   height: 40px;
   border-radius: 50%;
+}
+.cid-rZKQZDHAY9 .mbr-text {
+  text-align: center;
 }
